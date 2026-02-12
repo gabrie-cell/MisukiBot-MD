@@ -40,7 +40,7 @@ Siempre usa la librería principal y oficial de Baileys.
 <summary><strong>🍒 Cloud</strong> — Shell</summary>
 
 ```bash
-git clone https://github.com/The-King-Destroy/YukiBot-MD
+git clone https://github.com/iamDestroy/YukiBot-MD
 ```
 
 ```bash
@@ -72,7 +72,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/The-King-Destroy/YukiBot-MD
+git clone https://github.com/iamDestroy/YukiBot-MD
 ```
 
 ```bash
