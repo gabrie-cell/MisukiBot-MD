@@ -10,7 +10,7 @@ global.version = '^2.0 - Latest'
 global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ 𝙜𝙖𝙗𝙭𝙯"
 global.links = {
 api: 'https://api.stellarwa.xyz',
-channel: "https://whatsapp.com/channel/0029Vb64nWqLo4hb8cuxe23n",
+channel: "https://whatsapp.com/channel/0029VbCJFHmFy72CvfvzSR0Q",
 github: "https://github.com/iamDestroy/YukiBot-MD",
 gmail: "thekingdestroy507@gmail.com"
 }
