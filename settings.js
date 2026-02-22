@@ -11,12 +11,12 @@ global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ 𝙜𝙖𝙗𝙭𝙯"
 global.links = {
 api: 'https://api.stellarwa.xyz',
 channel: "https://whatsapp.com/channel/0029VbCJFHmFy72CvfvzSR0Q",
-github: "120363424677971125@newsletter", 
+github: "https://github.com/gabrie-cell/MisukiBot-MD", 
 gmail: "thekingdestroy507@gmail.com"
 }
 global.my = {
 ch: '120363401404146384@newsletter',
-name: 'ೃ࿔ 𝙈𝙞𝙨𝙪𝙠𝙞 - σƒƒเ૮เαℓ ૮ɦαɳɳεℓ .ೃ࿐',
+name: 'ೃ࿔ Misuki - σƒƒเ૮เαℓ ૮ɦαɳɳεℓ .ೃ࿐',
 }
 
 global.mess = {
