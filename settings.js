@@ -11,7 +11,7 @@ global.dev = "© ⍴᥆ᥕᥱrᥱძ ᑲᥡ 𝙜𝙖𝙗𝙭𝙯"
 global.links = {
 api: 'https://api.stellarwa.xyz',
 channel: "https://whatsapp.com/channel/0029VbCJFHmFy72CvfvzSR0Q",
-github: "https://github.com/iamDestroy/YukiBot-MD",
+github: "120363424677971125@newsletter",
 gmail: "thekingdestroy507@gmail.com"
 }
 global.my = {
